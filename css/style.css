@@ -1,7 +1,7 @@
 header {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	margin: 12px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 12px;
 }
 
 div#right{
