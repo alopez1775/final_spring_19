@@ -2,17 +2,17 @@ header {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	margin: 12px;
-  
-  
 }
+
 div#right{
   column-start:2;
-  column-end:3;
- 
+  column-end:3; 
 }
+
 img{
   height: 100vh;
 }
+
 section {
   Display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -20,8 +20,7 @@ section {
   position:relative;
   left: -150px;
   top: -60px;
-  z-index: 1;
-  
+  z-index: 1;  
 }
 
 .pic1{
@@ -33,6 +32,7 @@ section {
   border-radius: 10px;
   box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.19);
 }
+
 .pic2{
   width: 100%;
   height: 25vh;
@@ -42,6 +42,7 @@ section {
   border-radius: 10px;
   box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.19);
 }
+
 .pic3{
   width: 100%;
   height: 25vh;
@@ -49,9 +50,9 @@ section {
   background-size: cover;
   background-position: center;
   border-radius: 10px;
-  box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.19);
-  
+  box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.19);  
 }
+
 h2{
   position:relative;
   font-family: 'Source Sans Pro', sans-serif;
@@ -62,12 +63,14 @@ h2{
   font-size: 150px;
   color: #014262;
 }
+
 h3{
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px;
   padding:30px;
   color: #014262;
 }
+
 p {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 16px;
